@@ -49,4 +49,3 @@ I am a Full Stack Developer and love working on everything from a pretty fronten
 </div>
 
 ---
-![Snake animation](https://github.com/aerial-ace1/aerial-ace1/blob/output/github-contribution-grid-snake-dark.svg)
