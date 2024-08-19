@@ -45,7 +45,7 @@ I am a Full Stack Developer and love working on everything from a pretty fronten
 <div align=center >
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsKhadeer&theme=codestackr&fire=EBDC3C&card_width=400&border=EB545400)](https://git.io/streak-stats)  -->
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsKhadeer&theme=codeSTACKr&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsKhadeer&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsKhadeer&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
